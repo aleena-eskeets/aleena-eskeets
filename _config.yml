@@ -1,16 +1,16 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "Learn About the Sports Analytics with Me"
+author: "Aleena Eskeets"
+description: "Join me on my exploration of data and statistics as I document my journey of learning the statistics behind sports. From immersive projects to invaluable information, this blog will document my successes/failures and everything along my attempt to understand the intersection of sports and analytics. Whether you're a seasoned pro or a beginner like myself, let's learn how to apply our statistical knowledge to sports!"
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "aleena.eskeets@gmail.com"
+#twitter_username: "twitteruser"
+github_username: "aleena-eskeets"
+linkedin_username: "a-eskeets"
 #facebook_username: username
 #flickr_username: username
-#instagram_username: username
+instagram_username: "aleena-eskeets"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
